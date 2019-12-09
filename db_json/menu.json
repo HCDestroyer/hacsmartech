@@ -1,0 +1,22 @@
+{
+    "menu":[
+        {
+            "name":"Inicio",
+            "to": "index"
+        },
+        {
+            "name": "Desarrollo Web",
+            "to": "web-dev"
+        }
+    ],
+    "S":[
+        {
+            "name": "Quiénes somos",
+            "to": "index"
+        },
+        {
+            "name": "Contáctenos",
+            "to": "index"
+        }
+    ]
+}

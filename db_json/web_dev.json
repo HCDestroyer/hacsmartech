@@ -1,0 +1,32 @@
+{
+    "web_dev": {
+        "text": "DESARROLLANDO SOLUCIONES",
+        "background": "/imgs/wallpapers/dark.png",
+        "preview": "/imgs/web_dev.png",
+        "logo": "/imgs/app/logo/chessoft.png",
+        "pricings": [
+            {
+                "name": "BÁSICO",
+                "description": "",
+                "media": "/imgs/svg/started.svg",
+                "background":"blue-gradient",
+                "whatsapp":"https://wa.me/50253350658?text=Información+del+plan:+BÁSICO"
+            },
+            {
+                "selected":true,
+                "name": "ESTANDAR",
+                "description": "",
+                "media": "/imgs/svg/standard.svg",
+                "background": "peach-gradient",
+                "whatsapp": "https://wa.me/50253350658?text=Información+del+plan:+ESTANDAR"
+            },
+            {
+                "name": "PREMIUM",
+                "description": "",
+                "media": "/imgs/svg/premium.svg",
+                "background": "purple-gradient",
+                "whatsapp": "https://wa.me/50253350658?text=Información+del+plan:+PREMIUM"
+            }
+        ]
+    }
+}

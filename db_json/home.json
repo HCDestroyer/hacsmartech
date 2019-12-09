@@ -1,0 +1,38 @@
+{
+    "home": {
+        "text":"LO MEJOR DE LA TECNOLOGÍA A TÚ ALCANCE",
+        "background": "/imgs/wallpapers/technology.jpg",
+        "preview": "/imgs/svg/services_2.svg",
+        "services":[
+            {
+                "name":"VENTA Y REPARACIÓN DE TELÉFONOS CELULARES",
+                "description":"",
+                "media":"/imgs/svg/cellphone.svg"
+            },
+            {
+                "name": "DESARROLLO DE APLICACIONES WEB",
+                "description": "",
+                "media": "/imgs/svg/web_dev.svg",
+                "to":{
+                    "text":"Ver más",
+                    "url":"web-dev"
+                }
+            },
+            {
+                "name": "VENTA DE ACCESORIOS",
+                "description": "",
+                "media": "/imgs/services/accesories.png"
+            },
+            {
+                "name": "VENTA, MANTENIMIENTO Y REPARACIÓN DE PC'S",
+                "description": "",
+                "media": "/imgs/services/pcs.png"
+            },
+            {
+                "name": "VENTA DE TARJETAS POR MAYOR Y MENOR",
+                "description": "",
+                "media": "/imgs/services/multi-opcion.png"
+            }
+        ]
+    }
+}
